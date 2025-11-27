@@ -4,5 +4,8 @@ export const SERVICE_TYPES = {
 	IAppRouter: Symbol("IAppRouter"),
 	IApp: Symbol("IApp"),
 	IRouter: Symbol("IRouter"),
-	IErrorHandler: Symbol("IErrorHandler")
+	IErrorHandler: Symbol("IErrorHandler"),
+
+
+	LoginService: Symbol("LoginService"),
 }
